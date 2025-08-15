@@ -6,12 +6,12 @@ Frontend Developer
 
 I am a frontend developer who loves react!
 
-* 🌍  I'm based in Delhi
+* 🌍  I'm based in Delhi.
 * 🖥️  See my portfolio at [MyPortfolio](https://harshh-byte.vercel.app/)
 * ✉️  You can contact me at [rockstarharsh7jan@gmail.com](mailto:rockstarharsh7jan@gmail.com)
-* 🧠  I'm learning Backend
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Batman, Tell Everyone
+* 🧠  I'm learning Backend.
+* 🤝  I'm open to collaborating on Projects.
+* ⚡  I Am Batman, Tell Everyone.
 
 ### Skills
 
