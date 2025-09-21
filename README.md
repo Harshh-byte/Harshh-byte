@@ -9,7 +9,7 @@ I am a full stack developer who loves react!
 * 🌍  I'm based in Delhi.
 * 🖥️  See my portfolio at [MyPortfolio](https://harshh-byte.onrender.com)
 * ✉️  You can contact me at [rockstarharsh7jan@gmail.com](mailto:rockstarharsh7jan@gmail.com)
-* 🧠  I'm learning Backend.
+* 🧠  I'm learning Data Structure and Algorithms.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  I Am Batman, Tell Everyone.
 
