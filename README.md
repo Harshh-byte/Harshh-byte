@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ------------------
 
-I am a frontend developer who loves react!
+I am a full stack developer who loves react!
 
 * 🌍  I'm based in Delhi.
 * 🖥️  See my portfolio at [MyPortfolio](https://harshh-byte.onrender.com)
