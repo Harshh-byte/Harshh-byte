@@ -19,7 +19,7 @@
 
 **Backend & Integration** `Node.js` • `Express.js` • `Firebase` • `REST APIs` • `Axios / Fetch API`
 
-**Database & AI** `MongoDB` • `Google Gemini AI` • `Vector Embeddings`
+**Database & AI** `MongoDB` • `Google Gemini AI` • `Firebase`
 
 **Tools & Devops** `Git` • `Postman` • `Render` • `Vercel`
 
