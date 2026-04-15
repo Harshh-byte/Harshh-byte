@@ -8,7 +8,7 @@
 ### ⚡ About Me
 * 🌍 Based in **Delhi, India**
 * 🖥️ Portfolio: [harshh-byte.onrender.com](http://harshh-byte.onrender.com)
-* ✉️ Contact: [rockstarharsh7jan@gmail.com](mailto:rockstarharsh7jan@gmail.com)
+* ✉️ Contact: [harshh.bhardwaj07@gmail.com](mailto:harshh.bhardwaj07@gmail.com)
 * 💬 Ask me about **I Am Batman, Tell Everyone**
 
 ---
