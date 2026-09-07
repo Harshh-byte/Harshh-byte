@@ -15,13 +15,15 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend & State** `React.js` • `Next.js` • `Tailwind CSS` • `Shadcn/UI` • `Vite`
+**Languages** `C` • `Python` • `JavaScript` • `TypeScript`
 
-**Backend & Integration** `Node.js` • `Express.js` • `Firebase` • `REST APIs` • `Axios / Fetch API`
+**Frontend & State** `React.js` • `Next.js` • `Tailwind CSS` • `Three.js` • `GSAP` • `Framer Motion`
 
-**Database & AI** `MongoDB` • `Google Gemini AI` • `Firebase`
+**Backend & AI** `Node.js` • `Express.js` • `REST APIs` • `Google Gemini API`
 
-**Tools & Devops** `Git` • `Postman` • `Render` • `Vercel`
+**Database & Auth** `MongoDB` • `Firebase` • `Supabase` • `Clerk Auth`
+
+**Developer Tools** `Git` • `Postman` • `Docker` • `Render` • `Vercel`
 
 ---
 
