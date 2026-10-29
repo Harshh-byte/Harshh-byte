@@ -1,17 +1,22 @@
-# Hi 👋 I'm Harsh Bhardwaj
+<div align="center">
+  
+# 👋 Hi, I'm Harsh Bhardwaj
+<p><strong>A Developer Dedicated to Crafting</strong></p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=5865F2&center=true&vCenter=true&width=300&lines=Secure;Elegant;Scalable" alt="Flip Words" />
+</a>
+<p><strong>Web Solutions</strong></p>
+</div>
 
-### Full Stack Developer 🚀
-*I am a Full Stack Developer who loves turning logic into reality!*
+### 🚀 About Me
+
+- 🌍 Based in **Delhi, India**  
+- 💻 Portfolio: [Harshh-Byte](http://harshh-byte.onrender.com)  
+- ✉️ Contact: [harshh.bhardwaj07@gmail.com](mailto:harshh.bhardwaj07@gmail.com)  
+- 💬 **I Am Batman, Tell Everyone**
 
 ---
 
-### ⚡ About Me
-* 🌍 Based in **Delhi, India**
-* 🖥️ Portfolio: [harshh-byte.onrender.com](http://harshh-byte.onrender.com)
-* ✉️ Contact: [harshh.bhardwaj07@gmail.com](mailto:harshh.bhardwaj07@gmail.com)
-* 💬 **I Am Batman, Tell Everyone**
-
----
 
 ### 🛠️ Tech Stack
 
