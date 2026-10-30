@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Harsh Bhardwaj
+# 👋 Hey, I'm Harsh Bhardwaj
 
 <p>
   <strong>Crafting Digital Experiences That Make an Impact.</strong>
@@ -25,36 +25,15 @@
 
 ### 💻 Tech Stack
 
-**Languages**
+**Languages** `C` • `Python` • `JavaScript` • `TypeScript`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript&theme=dark" />
-</p>
+**Frontend** `React.js` • `Next.js` • `Tailwind CSS` • `Three.js` • `GSAP` • `Framer Motion`
 
-**Frontend**
+**Backend** `Node.js` • `Express.js` • `REST APIs` • `Google Gemini API`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,gsap&theme=dark" />
-</p>
+**Database** `MongoDB` • `Firebase` • `Supabase` • `Google Auth`• `Clerk Auth`
 
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
-
-**Database**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,redis&theme=dark" />
-</p>
-
-
-**Dev Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,render&theme=dark" />
-</p>
+**Dev Tools** `Git` • `Postman` • `Docker` • `Redis` • `Render` • `Vercel`
 
 ---
 
