@@ -5,11 +5,6 @@
 <p>
   <strong>Crafting Digital Experiences That Make an Impact.</strong>
 </p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5865F2&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Development;Creative+UI%2FUX+Experiences;Scalable+Backend+Solutions;AI-Powered+Applications" alt="What I build" />
-</a>
-
 <p><sub>Powered by music, coffee and code ☕</sub></p>
 
 </div>
